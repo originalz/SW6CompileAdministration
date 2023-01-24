@@ -1,5 +1,4 @@
-### Compile Administration Components
-#### Administration Javascript
+## Compile Administration Components
 ```bash
 docker machine > bin/console plugin:refresh
 docker machine > bin/console plugin:install PLUGINNAME
